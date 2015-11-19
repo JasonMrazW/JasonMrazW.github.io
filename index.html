@@ -275,10 +275,11 @@
         
           <span itemprop="articleBody">
             
-              <p>#hexo部署到github</p>
-<p>##配置根目录下的_config.yml文件,hexo版本大于3.0：<br>    deploy:<br>      type: git<br>      repository: git@github.com:JasonMrazW/JasonMrazW.github.io<br>      branch: master</p>
-<p>##配置SSH Key</p>
-<p>首先设置用户名密码：</p>
+              <h1 id="hexo部署到github">hexo部署到github</h1><h2 id="配置根目录下的_config-yml文件,hexo版本大于3-0：">配置根目录下的_config.yml文件,hexo版本大于3.0：</h2><pre><code><span class="attribute">deploy</span>:
+  <span class="attribute">type</span>: git
+  <span class="attribute">repository</span>: git<span class="variable">@github</span>.<span class="attribute">com</span>:JasonMrazW/JasonMrazW.github.io
+  <span class="attribute">branch</span>: master
+</code></pre><h2 id="配置SSH_Key">配置SSH Key</h2><p>首先设置用户名密码：</p>
 <pre><code>git config --global user<span class="class">.email</span> <span class="string">"bcai.wang@foxmail.com"</span>
 git config --global user<span class="class">.name</span> <span class="string">"JasonMarzW"</span>
 </code></pre><p>生成密钥：</p>
@@ -293,8 +294,7 @@ git config --global user<span class="class">.name</span> <span class="string">"J
 <pre><code><span class="title">ssh</span> -T git<span class="variable">@github</span>.com
 </code></pre><p>若出现以下内容，表明认证成功：</p>
 <pre><code>Hi JasonMarzW! You've successfully authenticated, <span class="keyword">but</span> GitHub <span class="keyword">does</span> <span class="keyword">not</span> provide shell access.
-</code></pre><p>##部署Hexo生成内容</p>
-<pre><code>hexo <span class="keyword">d</span> -<span class="keyword">g</span>
+</code></pre><h2 id="部署Hexo生成内容">部署Hexo生成内容</h2><pre><code>hexo <span class="keyword">d</span> -<span class="keyword">g</span>
 </code></pre>
             
           </span>
