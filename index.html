@@ -207,15 +207,6 @@
 
     
     
-      
-      
-        
-        
-        
-      
-
-      
-    
 
     
       
@@ -310,7 +301,7 @@ git config --global user<span class="class">.name</span> <span class="string">"J
 </code></pre><p>生成密钥：</p>
 <pre><code><span class="tag">ssh-keygen</span> <span class="tag">-t</span> <span class="tag">rsa</span> <span class="tag">-C</span> "<span class="tag">bcai</span><span class="class">.wang</span><span class="at_rule">@<span class="keyword">foxmail.com"</span></span>
 </code></pre><p>复制生成的公钥内容到github上。</p>
-<p>本地与github服务器做校验：</p>
+<p><strong>查阅Hexo与github官方资料，以下步骤是关键：</strong><br>本地与github服务器做校验：</p>
 <pre><code>ssh-agent <span class="operator">-s</span>
 <span class="built_in">eval</span> $(ssh-agent <span class="operator">-s</span>)
 </code></pre><p>添加本地私钥：</p>
