@@ -209,6 +209,15 @@
 
     
     
+      
+      
+        
+        
+        
+      
+
+      
+    
 
     
       
@@ -275,31 +284,15 @@
 
       
         
-          <span itemprop="articleBody">
-            
-              <blockquote>
+          <blockquote>
 <p>Android内核基于linux，为了更懂Android而学</p>
 </blockquote>
-<h1 id="linux内核整理">linux内核整理</h1><h2 id="起因">起因</h2><p>《深入理解Android内核设计思想》粗略阅读了一遍，里面涉及到一些概念如：进程通信、内存管理、虚拟设备、进程同步、Binder等，具体在linux下的实现不清楚导致理解只是知道有而不知道如何做到的，因此，通过整体学下linux内核，来更好的理解Android内核。</p>
-<h2 id="准备工作">准备工作</h2><ul>
-<li>知识储备：C和C++</li>
-<li>linux操作环境：VirtualBox+centos server 64位版</li>
-<li>linux相关学习资料：《鸟哥私房菜》、《Linux Kernel Development》、《Understanding the linux kernel》、《Unix环境高级编程》</li>
-</ul>
-<h2 id="计划">计划</h2><ul>
-<li><p>鸟哥私房菜，熟悉基本概念和操作；<strong>计划两个星期</strong></p>
-</li>
-<li><p>Linux Kernel Development，熟悉进程管理、内存管理等基本概念，了解其工作机制；<strong>计划花两个月</strong></p>
-</li>
-<li><p>Understanding the linux kernel，业余时间进行阅读；<strong>计划花半年到一年</strong></p>
-</li>
-<li><p>深入理解Android内核设计思想，阅读完Linux Kernel Development后再次精读；<strong>计划花两个月</strong></p>
-</li>
-</ul>
-<h2 id="总结">总结</h2><p>计划目的是为了更好的理解Android，有针对性学习Linux内核相关概念。</p>
-
-            
-          </span>
+<h1 id="linux内核整理">linux内核整理</h1><h2 id="起因">起因</h2><p>《深入理解Android内核设计思想》粗略阅读了一遍，里面涉及到一些概念如：进程通信、内存管理、虚拟设备、进程同步、Binder等，具体在linux下的实现不清楚导致理解只是知道有而不知道如何做到的，因此，通过整体学下linux内核，来更好的理解Android内核。<br>
+          <div class="post-more-link text-center">
+            <a class="btn" href="/2015/11/23/post/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
         
       
     </div>
@@ -397,128 +390,17 @@
 
       
         
-          <span itemprop="articleBody">
-            
-              <h1 id="hexo部署到github">hexo部署到github</h1><h2 id="配置_config-yml：">配置_config.yml：</h2><p>根目录下的_config.yml文件,hexo版本大于3.0：</p>
+          <h1 id="hexo部署到github">hexo部署到github</h1><h2 id="配置_config-yml：">配置_config.yml：</h2><p>根目录下的_config.yml文件,hexo版本大于3.0：</p>
 <pre><code><span class="attribute">deploy</span>:
   <span class="attribute">type</span>: git
   <span class="attribute">repository</span>: git<span class="variable">@github</span>.<span class="attribute">com</span>:JasonMrazW/JasonMrazW.github.io
   <span class="attribute">branch</span>: master
-</code></pre><h2 id="配置SSH_Key">配置SSH Key</h2><p>首先设置用户名密码：</p>
-<pre><code>git config --global user<span class="class">.email</span> <span class="string">"bcai.wang@foxmail.com"</span>
-git config --global user<span class="class">.name</span> <span class="string">"JasonMarzW"</span>
-</code></pre><p>生成密钥：</p>
-<pre><code><span class="tag">ssh-keygen</span> <span class="tag">-t</span> <span class="tag">rsa</span> <span class="tag">-C</span> "<span class="tag">bcai</span><span class="class">.wang</span><span class="at_rule">@<span class="keyword">foxmail.com"</span></span>
-</code></pre><p>复制生成的公钥内容到github上。</p>
-<p><strong>查阅Hexo与github官方资料，以下步骤是关键：</strong><br>本地与github服务器做校验：</p>
-<pre><code>ssh-agent <span class="operator">-s</span>
-<span class="built_in">eval</span> $(ssh-agent <span class="operator">-s</span>)
-</code></pre><p>添加本地私钥：</p>
-<pre><code><span class="label">ssh</span>-<span class="keyword">add </span>~/.ssh/id_rsa
-</code></pre><p>校验是否认证成功：</p>
-<pre><code><span class="title">ssh</span> -T git<span class="variable">@github</span>.com
-</code></pre><p>若出现以下内容，表明认证成功：</p>
-<pre><code>Hi JasonMarzW! You've successfully authenticated, <span class="keyword">but</span> GitHub <span class="keyword">does</span> <span class="keyword">not</span> provide shell access.
-</code></pre><h2 id="部署Hexo生成内容">部署Hexo生成内容</h2><pre><code>hexo <span class="keyword">d</span> -<span class="keyword">g</span>
 </code></pre>
-            
-          </span>
-        
-      
-    </div>
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-
-
-    
-      
-
-  
-  
-
-  
-  
-  
-
-  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-            
-            
-              
-                
-                <a class="post-title-link" href="/2015/11/19/hello-world/" itemprop="url">
-                  Hello World
-                </a>
-              
-            
-          </h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-            发表于
-            <time itemprop="dateCreated" datetime="2015-11-19T17:56:01+08:00" content="2015-11-19">
-              2015-11-19
-            </time>
-          </span>
-
-          
-
-          
-            
-              <span class="post-comments-count">
-                &nbsp; | &nbsp;
-                <a href="/2015/11/19/hello-world/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/11/19/hello-world/" itemprop="commentsCount"></span>
-                </a>
-              </span>
-            
-          
-
-          
-
-        </div>
-      </header>
-    
-
-
-    <div class="post-body">
-
-      
-      
-
-      
-        
-          <span itemprop="articleBody">
-            
-              <p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-
-            
-          </span>
+          <div class="post-more-link text-center">
+            <a class="btn" href="/2015/11/19/post/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
         
       
     </div>
@@ -579,7 +461,7 @@ git config --global user<span class="class">.name</span> <span class="string">"J
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
             <a href="/archives">
-              <span class="site-state-item-count">3</span>
+              <span class="site-state-item-count">2</span>
               <span class="site-state-item-name">日志</span>
             </a>
           </div>
