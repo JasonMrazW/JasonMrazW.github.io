@@ -3,11 +3,11 @@
   <title>Bo&#39;s blog</title>
   
   <subtitle>2222</subtitle>
-  <link href="https://jasonmrazw.github.io/blogs/atom.xml" rel="self"/>
+  <link href="https://jasonmrazw.github.io/atom.xml" rel="self"/>
   
-  <link href="https://jasonmrazw.github.io/blogs/"/>
+  <link href="https://jasonmrazw.github.io/"/>
   <updated>2023-11-13T14:47:17.631Z</updated>
-  <id>https://jasonmrazw.github.io/blogs/</id>
+  <id>https://jasonmrazw.github.io/</id>
   
   <author>
     <name>bo.wang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>post</title>
-    <link href="https://jasonmrazw.github.io/blogs/2023/11/13/post/"/>
-    <id>https://jasonmrazw.github.io/blogs/2023/11/13/post/</id>
+    <link href="https://jasonmrazw.github.io/2023/11/13/post/"/>
+    <id>https://jasonmrazw.github.io/2023/11/13/post/</id>
     <published>2023-11-13T14:47:17.000Z</published>
     <updated>2023-11-13T14:47:17.631Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://jasonmrazw.github.io/blogs/2023/11/13/hello-world/"/>
-    <id>https://jasonmrazw.github.io/blogs/2023/11/13/hello-world/</id>
+    <link href="https://jasonmrazw.github.io/2023/11/13/hello-world/"/>
+    <id>https://jasonmrazw.github.io/2023/11/13/hello-world/</id>
     <published>2023-11-13T14:00:11.730Z</published>
     <updated>2023-11-13T14:00:11.730Z</updated>
     
