@@ -6,7 +6,7 @@
   <link href="https://jasonmrazw.github.io/atom.xml" rel="self"/>
   
   <link href="https://jasonmrazw.github.io/"/>
-  <updated>2023-11-13T14:47:17.631Z</updated>
+  <updated>2023-11-14T14:17:58.044Z</updated>
   <id>https://jasonmrazw.github.io/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test page</title>
+    <link href="https://jasonmrazw.github.io/2023/11/14/test-page/"/>
+    <id>https://jasonmrazw.github.io/2023/11/14/test-page/</id>
+    <published>2023-11-14T14:01:27.000Z</published>
+    <updated>2023-11-14T14:17:58.044Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Test-Page"><a href="#Test-Page" class="headerlink" title="Test Page"></a>Test Page</h2><p>![xxx](.&#x2F;test-page&#x2F;download.png ooook)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Test-Page&quot;&gt;&lt;a href=&quot;#Test-Page&quot; class=&quot;headerlink&quot; title=&quot;Test Page&quot;&gt;&lt;/a&gt;Test Page&lt;/h2&gt;&lt;p&gt;![xxx](.&amp;#x2F;test-page&amp;#x2F;download.png </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Android Surface解析</title>
+    <link href="https://jasonmrazw.github.io/2023/11/14/Android-Surface%E8%A7%A3%E6%9E%90/"/>
+    <id>https://jasonmrazw.github.io/2023/11/14/Android-Surface%E8%A7%A3%E6%9E%90/</id>
+    <published>2023-11-14T13:46:24.000Z</published>
+    <updated>2023-11-14T13:46:24.067Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>post</title>

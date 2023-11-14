@@ -17,19 +17,21 @@
   <meta http-equiv="window-target" content="_top" />
   
   
-  <title>归档: 2023/11 | Bo&#39;s Blog</title>
+  <title>Android Surface解析 | Bo&#39;s Blog</title>
   <meta name="description" content="个人随笔、技术博客">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Bo&#39;s blog">
-<meta property="og:url" content="https://jasonmrazw.github.io/archives/2023/11/index.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Android Surface解析">
+<meta property="og:url" content="https://jasonmrazw.github.io/2023/11/14/Android-Surface%E8%A7%A3%E6%9E%90/index.html">
 <meta property="og:site_name" content="Bo&#39;s blog">
 <meta property="og:description" content="个人随笔、技术博客">
 <meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2023-11-14T13:46:24.000Z">
+<meta property="article:modified_time" content="2023-11-14T13:46:24.067Z">
 <meta property="article:author" content="bo.wang">
 <meta property="article:tag" content="博客、技术随笔、音视频">
 <meta name="twitter:card" content="summary">
   <!-- Canonical links -->
-  <link rel="canonical" href="https://jasonmrazw.github.io/archives/2023/11/index.html">
+  <link rel="canonical" href="https://jasonmrazw.github.io/2023/11/14/Android-Surface%E8%A7%A3%E6%9E%90/index.html">
   
     <link rel="alternate" href="/atom.xml" title="Bo&#39;s blog" type="application/atom+xml">
   
@@ -281,78 +283,130 @@
   
   
 <main class="main" role="main">
-  	<article class="content article article-archives article-type-list" itemscope="">
-	    <header class="article-header">
-	      <h1 itemprop="title">归档: 2023/11</h1>
-	      <p class="text-muted">共 4 篇文章</p>
-	    </header>
-	    <div class="article-body">
-	      
-  
-  
+  <div class="content">
+  <article id="post-Android-Surface解析" class="article article-type-post" itemscope itemtype="http://schema.org/BlogPosting">
     
-    
+    <div class="article-header">
       
+        
+  
+    <h1 class="article-title" itemprop="name">
+      Android Surface解析
+    </h1>
+  
+
       
-      <section class="panel panel-default b-no">
-        <div class="panel-heading" role="tab">
-          <h3 class="panel-title">
-            <a data-toggle="collapse" href="#collapse2023" aria-expanded="true">
-              <i class="icon icon-calendar-plus text-active"></i><i class="icon icon-calendar-minus text"></i>
-              2023
-            </a>
-            <!-- <a href="/archives/2023" class="archive-year">2023</a> -->
-          </h3>
-        </div>
-        <div id="collapse2023" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading2023">
-        <div class="panel-body">
-          <div class="collection">
+      <div class="article-meta">
+        <span class="article-date">
+    <i class="icon icon-calendar-check"></i>
+	<a href="/2023/11/14/Android-Surface%E8%A7%A3%E6%9E%90/" class="article-date">
+	  <time datetime="2023-11-14T13:46:24.000Z" itemprop="datePublished">2023-11-14</time>
+	</a>
+</span>
+        
+        
+
+        
+	<span class="article-read hidden-xs">
+	    <i class="icon icon-eye-fill" aria-hidden="true"></i>
+	    <span id="busuanzi_container_page_pv">
+			<span id="busuanzi_value_page_pv">0</span>
+		</span>
+	</span>
+
+
+        <span class="post-comment"><i class="icon icon-comment"></i> <a href="/2023/11/14/Android-Surface%E8%A7%A3%E6%9E%90/#comments" class="article-comment-link">评论</a></span>
+        
+	
+		<span class="post-wordcount hidden-xs" itemprop="wordCount">字数统计: 0(字)</span>
+	
+	
+		<span class="post-readcount hidden-xs" itemprop="timeRequired">阅读时长: 1(分)</span>
+	
+
+      </div>
+    </div>
+    <div class="article-entry marked-body" itemprop="articleBody">
+      
+        
+      
+    </div>
+    <div class="article-footer">
+      <blockquote class="mt-2x">
+  <ul class="post-copyright list-unstyled">
     
+    <li class="post-copyright-link hidden-xs">
+      <strong>本文链接：</strong>
+      <a href="https://jasonmrazw.github.io/2023/11/14/Android-Surface%E8%A7%A3%E6%9E%90/" title="Android Surface解析" target="_blank" rel="external">https://jasonmrazw.github.io/2023/11/14/Android-Surface解析/</a>
+    </li>
     
-<a href="/2023/11/14/test-page/" class="collection-item"   itemprop="url">
-  <time datetime="2023-11-14T14:01:27.000Z" itemprop="datePublished">2023-11-14</time>
-  <span>&nbsp;&nbsp;&nbsp;</span> test page
-</a>
+    <li class="post-copyright-license">
+      <strong>版权声明： </strong> 本博客所有文章除特别声明外，均采用 <a href="http://creativecommons.org/licenses/by/4.0/deed.zh" target="_blank" rel="external">CC BY 4.0 CN协议</a> 许可协议。转载请注明出处！
+    </li>
+  </ul>
+</blockquote>
+
+
+<div class="panel panel-default panel-badger">
+  <div class="panel-body">
+    <figure class="media">
+      <div class="media-left">
+        <a href="https://github.com/JasonMrazw" target="_blank" class="img-burn thumb-sm visible-lg">
+          <img src="/images/avatar.jpg" class="img-rounded w-full" alt="">
+        </a>
+      </div>
+      <div class="media-body">
+        <h3 class="media-heading"><a href="https://github.com/JasonMrazw" target="_blank"><span class="text-dark">bo</span><small class="ml-1x">Video/Audio Developer</small></a></h3>
+        <div></div>
+      </div>
+    </figure>
+  </div>
+</div>
+
+
+    </div>
+  </article>
+  
+    
+  <section id="comments">
+  	
+      <div id="vcomments"></div>
+    
+  </section>
 
 
   
-    
-    
-    
-<a href="/2023/11/14/Android-Surface%E8%A7%A3%E6%9E%90/" class="collection-item"   itemprop="url">
-  <time datetime="2023-11-14T13:46:24.000Z" itemprop="datePublished">2023-11-14</time>
-  <span>&nbsp;&nbsp;&nbsp;</span> Android Surface解析
-</a>
+</div>
 
-
+  <nav class="bar bar-footer clearfix" data-stick-bottom>
+  <div class="bar-inner">
   
+  <ul class="pager pull-left">
+    
+    <li class="prev">
+      <a href="/2023/11/14/test-page/" title="test page"><i class="icon icon-angle-left" aria-hidden="true"></i><span>&nbsp;&nbsp;上一篇</span></a>
+    </li>
     
     
-    
-<a href="/2023/11/13/post/" class="collection-item"   itemprop="url">
-  <time datetime="2023-11-13T14:47:17.000Z" itemprop="datePublished">2023-11-13</time>
-  <span>&nbsp;&nbsp;&nbsp;</span> post
-</a>
-
-
-  
+    <li class="next">
+      <a href="/2023/11/13/post/" title="post"><span>下一篇&nbsp;&nbsp;</span><i class="icon icon-angle-right" aria-hidden="true"></i></a>
+    </li>
     
     
-    
-<a href="/2023/11/13/hello-world/" class="collection-item"   itemprop="url">
-  <time datetime="2023-11-13T14:00:11.730Z" itemprop="datePublished">2023-11-13</time>
-  <span>&nbsp;&nbsp;&nbsp;</span> Hello World
-</a>
-
-
+  </ul>
   
   
-    </div></div></div></section>
+  
+  <div class="bar-right">
+    
+    <div class="share-component" data-sites="weibo,qq,wechat,facebook,twitter" data-mobile-sites="weibo,qq,qzone"></div>
+    
+  </div>
+  </div>
+</nav>
   
 
-	    </div>
-  	</article>
-  	 	
+
 </main>
 
   <footer class="footer" itemscope itemtype="http://schema.org/WPFooter">
@@ -405,6 +459,39 @@ window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
 
 
 
+
+   
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+
+
+
+   
+    
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/valine"></script>
+  <script type="text/javascript">
+  var GUEST = ['nick', 'mail', 'link'];
+  var meta = 'nick,mail,link';
+  meta = meta.split(',').filter(function(item) {
+    return GUEST.indexOf(item) > -1;
+  });
+  new Valine({
+    el: '#vcomments',
+    verify: false,
+    notify: false,
+    appId: '',
+    appKey: '',
+    placeholder: 'Just go go',
+    avatar: 'mm',
+    meta: meta,
+    pageSize: '10' || 10,
+    visitor: false
+  });
+  </script>
+
+     
 
 
 
