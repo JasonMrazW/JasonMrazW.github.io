@@ -6,7 +6,7 @@
   <link href="https://jasonmrazw.github.io/atom.xml" rel="self"/>
   
   <link href="https://jasonmrazw.github.io/"/>
-  <updated>2023-11-14T14:24:12.096Z</updated>
+  <updated>2023-11-14T15:11:03.400Z</updated>
   <id>https://jasonmrazw.github.io/</id>
   
   <author>
@@ -21,14 +21,16 @@
     <link href="https://jasonmrazw.github.io/2023/11/14/test-page/"/>
     <id>https://jasonmrazw.github.io/2023/11/14/test-page/</id>
     <published>2023-11-14T14:01:27.000Z</published>
-    <updated>2023-11-14T14:24:12.096Z</updated>
+    <updated>2023-11-14T15:11:03.400Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Test-Page"><a href="#Test-Page" class="headerlink" title="Test Page"></a>Test Page</h2><p>![xxx](&#x2F;source&#x2F;_posts&#x2F;test-page&#x2F;download.png ooook)</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/test-page/download.png" alt="alt"></p><p>this is code for eom…</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;Test-Page&quot;&gt;&lt;a href=&quot;#Test-Page&quot; class=&quot;headerlink&quot; title=&quot;Test Page&quot;&gt;&lt;/a&gt;Test Page&lt;/h2&gt;&lt;p&gt;![xxx](&amp;#x2F;source&amp;#x2F;_posts&amp;#x2F;test-</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/test-page/download.png&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
+&lt;p&gt;this is code for eom…&lt;/p&gt;
+</summary>
       
     
     
@@ -43,39 +45,6 @@
     <published>2023-11-14T13:46:24.000Z</published>
     <updated>2023-11-14T13:46:24.067Z</updated>
     
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>post</title>
-    <link href="https://jasonmrazw.github.io/2023/11/13/post/"/>
-    <id>https://jasonmrazw.github.io/2023/11/13/post/</id>
-    <published>2023-11-13T14:47:17.000Z</published>
-    <updated>2023-11-13T14:47:17.631Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://jasonmrazw.github.io/2023/11/13/hello-world/"/>
-    <id>https://jasonmrazw.github.io/2023/11/13/hello-world/</id>
-    <published>2023-11-13T14:00:11.730Z</published>
-    <updated>2023-11-13T14:00:11.730Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
     
     
     
