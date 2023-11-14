@@ -6,7 +6,7 @@
   <link href="https://jasonmrazw.github.io/atom.xml" rel="self"/>
   
   <link href="https://jasonmrazw.github.io/"/>
-  <updated>2023-11-14T14:17:58.044Z</updated>
+  <updated>2023-11-14T14:24:12.096Z</updated>
   <id>https://jasonmrazw.github.io/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://jasonmrazw.github.io/2023/11/14/test-page/"/>
     <id>https://jasonmrazw.github.io/2023/11/14/test-page/</id>
     <published>2023-11-14T14:01:27.000Z</published>
-    <updated>2023-11-14T14:17:58.044Z</updated>
+    <updated>2023-11-14T14:24:12.096Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Test-Page"><a href="#Test-Page" class="headerlink" title="Test Page"></a>Test Page</h2><p>![xxx](.&#x2F;test-page&#x2F;download.png ooook)</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Test-Page"><a href="#Test-Page" class="headerlink" title="Test Page"></a>Test Page</h2><p>![xxx](&#x2F;source&#x2F;_posts&#x2F;test-page&#x2F;download.png ooook)</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;Test-Page&quot;&gt;&lt;a href=&quot;#Test-Page&quot; class=&quot;headerlink&quot; title=&quot;Test Page&quot;&gt;&lt;/a&gt;Test Page&lt;/h2&gt;&lt;p&gt;![xxx](.&amp;#x2F;test-page&amp;#x2F;download.png </summary>
+    <summary type="html">&lt;h2 id=&quot;Test-Page&quot;&gt;&lt;a href=&quot;#Test-Page&quot; class=&quot;headerlink&quot; title=&quot;Test Page&quot;&gt;&lt;/a&gt;Test Page&lt;/h2&gt;&lt;p&gt;![xxx](&amp;#x2F;source&amp;#x2F;_posts&amp;#x2F;test-</summary>
       
     
     
