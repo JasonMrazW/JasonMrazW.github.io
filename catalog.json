@@ -1,0 +1,1676 @@
+[
+  {
+    "id": "admin-85f94c7cfc794af79b0592d527d2ab0d",
+    "_revision": "849f49b485304155a396a2deb0f78fea",
+    "subject": "语文",
+    "grade": "三年级上册",
+    "label": "第一单元",
+    "title": "知识积累",
+    "words": [
+      "糊里糊涂",
+      "摇晃",
+      "招引",
+      "愉快",
+      "急急忙忙",
+      "照例",
+      "轰响",
+      "湿润",
+      "流利",
+      "突然",
+      "洁白",
+      "安静",
+      "粗壮",
+      "鸦雀无声",
+      "详细",
+      "认真",
+      "咿咿呀呀",
+      "簌簌",
+      "叽叽喳喳",
+      "哗哗",
+      "乒乒乓乓",
+      "沙沙",
+      "叮叮咚咚",
+      "呼呼",
+      "丁丁当当",
+      "隆隆",
+      "霎时",
+      "顷刻",
+      "一刹那",
+      "一眨眼",
+      "刹那间",
+      "眨眼间",
+      "一转眼",
+      "转眼间",
+      "一字不漏",
+      "一丝不苟",
+      "一言不发",
+      "一文不值",
+      "一声不响",
+      "一毛不拔",
+      "一声不吭",
+      "一窍不通",
+      "一成不变",
+      "一尘不染"
+    ],
+    "audio": {
+      "近义词": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/693559a61c135904468c.wav",
+      "糊里糊涂": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/983aacd089998c282c39.wav",
+      "稀里糊涂": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/8b796937b708acbf4b7d.wav",
+      "糊里糊涂的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/7500857b66177e571250.wav",
+      "稀里糊涂的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/c5629f9ec932e8cc6b4c.wav",
+      "摇晃": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/127ab7fca1b7fa894035.wav",
+      "晃动": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/0cd83a64c8c2fdc1c40e.wav",
+      "摇晃的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/ec3b2efc16e5f0696ee9.wav",
+      "晃动的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/39615d7c53ca6a42efb0.wav",
+      "招引": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/ee538c5beecb23c9eae8.wav",
+      "吸引": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/ca78d1d5988be4b1e570.wav",
+      "招引的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/75c5062da72f3768ee3f.wav",
+      "吸引的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/e332b4839eb0fb7f3c67.wav",
+      "愉快": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/4474a1818110b6acf077.wav",
+      "快乐": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/0763400019d55d940bad.wav",
+      "愉快的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/f34faa33d4f19f93c40b.wav",
+      "快乐的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/830714064c09deeb9c90.wav",
+      "急急忙忙": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/4a3cc24cdea5d8a530ad.wav",
+      "匆匆忙忙": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/61aae221e85e6eb73def.wav",
+      "急急忙忙的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/3ace7d8ce0a00c9d82f5.wav",
+      "匆匆忙忙的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/016b54f761651f67d800.wav",
+      "照例": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/f6ffcc7d15e149f097d6.wav",
+      "照常": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/73538302d84b7849fa3b.wav",
+      "照例的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/3af0d4a50cdfd556e4ec.wav",
+      "照常的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/5c909d8b6173747b6818.wav",
+      "轰响": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/8ae3b7b1a0ece2a3ee40.wav",
+      "轰鸣": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/e4348d48266011c17a21.wav",
+      "轰响的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/a7b9342aa6d92dd90262.wav",
+      "轰鸣的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/4037131cc3e62b626758.wav",
+      "湿润": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/204ae6253060beae5b12.wav",
+      "潮湿": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/b227ebac091a4ef7f58f.wav",
+      "湿润的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/c7392d334de44c50e44a.wav",
+      "潮湿的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/316cf41f1e648f489286.wav",
+      "流利": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/50b5745c04dda7f4fb4b.wav",
+      "流畅": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/fcbf5c5b050f375403b4.wav",
+      "流利的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/138b2ff3cfa110e8039b.wav",
+      "流畅的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/15a66e2871fd7b7bf9d5.wav",
+      "突然": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/a1933f857bd139d21dc6.wav",
+      "忽然": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/2bc20783e8fdfc900311.wav",
+      "突然的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/9f64fd3fefe72772677a.wav",
+      "忽然的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/3f15f1f9465ca62fdbba.wav",
+      "洁白": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/3f9fd7001af5963de8c2.wav",
+      "雪白": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/702a9a247614d6040a47.wav",
+      "洁白的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/dedc56614c1e293a0527.wav",
+      "雪白的近义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/f932da1e0822c0d5d515.wav",
+      "反义词": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/c5b7ffab38660f5eaa65.wav",
+      "安静": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/3bf4a3a682bf4b0bac04.wav",
+      "喧闹": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/aee9a7fbeb3deaf292d7.wav",
+      "安静的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/0531fa28da94799c9290.wav",
+      "喧闹的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/677ed55d477632c2f3f0.wav",
+      "粗壮": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/f857062a76c5ebe0c5bb.wav",
+      "纤细": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/4e4d07701db721a4fd06.wav",
+      "粗壮的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/e6ae0b5f8d76262c98fb.wav",
+      "纤细的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/29bd9f8e526e9c35ec12.wav",
+      "鸦雀无声": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/4e7b4ce9221ea3085c9b.wav",
+      "人声鼎沸": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/737fe0db6bcc4ab35154.wav",
+      "鸦雀无声的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/15b55bf67d0f7cfa32c5.wav",
+      "人声鼎沸的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/cfd3d7d73d65243165a0.wav",
+      "乌黑": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/9d6e72d1442a6de43908.wav",
+      "洁白的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/4623269df08a4ca38bad.wav",
+      "乌黑的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/80df53a12517150759af.wav",
+      "详细": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/3162d59d875d4dd88e44.wav",
+      "粗略": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/e10d4ad0fa65a78c7aad.wav",
+      "详细的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/1c359e5e039de17b1c99.wav",
+      "粗略的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/beda8ede20f589d6c973.wav",
+      "明明白白": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/7240cfc2f973867ed196.wav",
+      "糊里糊涂的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/c176dab076c8b607c380.wav",
+      "明明白白的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/b02defb3f065ed6e689a.wav",
+      "干燥": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/9f8078f351456fe53a85.wav",
+      "湿润的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/615cfb3cf6e3a1a2273c.wav",
+      "干燥的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/73068b2e6c65ce20e655.wav",
+      "不慌不忙": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/1451daa67d7948597728.wav",
+      "急急忙忙的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/74aee5a1fce9d9ba38e3.wav",
+      "不慌不忙的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/87f550607a12d08ee974.wav",
+      "认真": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/e4b03ff2c6b7a8bc978b.wav",
+      "马虎": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/d199eef6b3cacc95ce8f.wav",
+      "认真的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/2d0d465113d5cf457c15.wav",
+      "马虎的反义词是什么？": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/466411939f97e6db719d.wav",
+      "表示声音的词语": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/1d41898d59c80c5e621c.wav",
+      "咿咿呀呀": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/cc279bb95bdef053d2a1.wav",
+      "簌簌": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/e8eca0be77efeb96b037.wav",
+      "叽叽喳喳": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/caf47a370181c6d93cb2.wav",
+      "哗哗": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/3b492c3c3c2900ad3b59.wav",
+      "乒乒乓乓": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/f26555173389d81e0e74.wav",
+      "沙沙": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/e18b10899ba8fef0497f.wav",
+      "叮叮咚咚": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/241623df5cda7f229798.wav",
+      "呼呼": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/c3b1512abb0875c5877f.wav",
+      "丁丁当当": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/099499121bff3d683b38.wav",
+      "隆隆": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/e1071c8c1e8c1db85f57.wav",
+      "表示时间短的词语": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/7e90e246564fcf0855e6.wav",
+      "霎时": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/47b6956b98a8cd6db3c2.wav",
+      "顷刻": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/6201c0f60b6d5ea35b08.wav",
+      "一刹那": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/289c7b6610539f10b2f7.wav",
+      "一眨眼": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/dd0bdb8b7868c40322dc.wav",
+      "刹那间": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/9da6f9ba0ca7dc7ce025.wav",
+      "眨眼间": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/716172d7b1fef7ede67f.wav",
+      "一转眼": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/abc8371d11cb56b8a2d6.wav",
+      "转眼间": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/2e6aa2a3f3c08b8aba8f.wav",
+      "一什么不什么式词语": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/a07b4038921713a33703.wav",
+      "一字不漏": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/619e3fad003ce8aa265c.wav",
+      "一丝不苟": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/644e248bc50cef2c0719.wav",
+      "一言不发": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/509984b445e7c5288505.wav",
+      "一文不值": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/d2e652bb4a94f9c51b76.wav",
+      "一声不响": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/83152153941c38c20390.wav",
+      "一毛不拔": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/edcb875ad263ce50daa9.wav",
+      "一声不吭": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/530617eac63dbc9261a7.wav",
+      "一窍不通": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/b84f81ec359851bc08db.wav",
+      "一成不变": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/58538434f875a9f2e609.wav",
+      "一尘不染": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/a7c47a876ee23b1e46dd.wav",
+      "请默写1个表示声音的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/3e29717551fd02295b79.wav",
+      "请默写2个表示声音的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/293e4cec31c05de58f61.wav",
+      "请默写3个表示声音的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/2b93f4ed177735f9b1f9.wav",
+      "请默写4个表示声音的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/db3291bc19afde71de68.wav",
+      "请默写5个表示声音的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/a9dc236a9a86105c8e58.wav",
+      "请默写6个表示声音的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/fe070c1dd4369bd33950.wav",
+      "请默写7个表示声音的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/689ba39176a3a7fe6f4c.wav",
+      "请默写8个表示声音的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/36fcfa738dfd627c449f.wav",
+      "请默写9个表示声音的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/9448ff4203915f7bd813.wav",
+      "请默写10个表示声音的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/aff80175843df9ad452e.wav",
+      "请默写1个表示时间短的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/e5fcc5ab67dbb1607fb1.wav",
+      "请默写2个表示时间短的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/5758146f28b13b4eb55c.wav",
+      "请默写3个表示时间短的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/bf6cd5930a23ac2174d3.wav",
+      "请默写4个表示时间短的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/1d2b7d4e7a3fcf5f89e3.wav",
+      "请默写5个表示时间短的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/63a422fb24ada6ba227e.wav",
+      "请默写6个表示时间短的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/872d89bcf3f1e8f14cff.wav",
+      "请默写7个表示时间短的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/7cff75ee5deaf6b2ed00.wav",
+      "请默写8个表示时间短的词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E7%B3%BB%E7%BB%9F/%E8%AF%AD%E6%96%87/9085667b3172e3d915b0.wav",
+      "请默写1个一什么不什么式词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/9edf229482e8d1c45b50.wav",
+      "请默写2个一什么不什么式词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/27db335379e1296f3037.wav",
+      "请默写3个一什么不什么式词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/c10b32ad9fcc8151a50b.wav",
+      "请默写4个一什么不什么式词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/a9c4ba6ddc6844f541e3.wav",
+      "请默写5个一什么不什么式词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/f1f95c992c23cdaad7dc.wav",
+      "请默写6个一什么不什么式词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/0110b2f45a69c1c68756.wav",
+      "请默写7个一什么不什么式词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/80dc8d1e9d85c2339a40.wav",
+      "请默写8个一什么不什么式词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/1a7f0fd5217c8d5e201f.wav",
+      "请默写9个一什么不什么式词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/d9654afa1492f0a2efb9.wav",
+      "请默写10个一什么不什么式词语。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/f30c703dd5c8db620078.wav",
+      "糊里糊涂，近义词，稀里糊涂。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/563cd788baf9258bc09a.wav",
+      "稀里糊涂，近义词，糊里糊涂。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/4e4866bfabc597da77dc.wav",
+      "摇晃，近义词，晃动。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/5064005801ea184b8c50.wav",
+      "晃动，近义词，摇晃。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/6b355a348e5a962919cb.wav",
+      "招引，近义词，吸引。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/4ec4efae055e26cc9053.wav",
+      "吸引，近义词，招引。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/4e5e6ed37576c4c8b03a.wav",
+      "愉快，近义词，快乐。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/0097806d18c104383bb5.wav",
+      "快乐，近义词，愉快。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/ddf4978b0e11c972c573.wav",
+      "急急忙忙，近义词，匆匆忙忙。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/c12a19c39362faaf58db.wav",
+      "匆匆忙忙，近义词，急急忙忙。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/54520a88511b8755e7a3.wav",
+      "照例，近义词，照常。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/0ed33d3eedfcf2584aa5.wav",
+      "照常，近义词，照例。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/fef00322a6ead68871c4.wav",
+      "轰响，近义词，轰鸣。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/7456726cb73e88710a51.wav",
+      "轰鸣，近义词，轰响。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/5ef215b6bf2142d3903f.wav",
+      "湿润，近义词，潮湿。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/c39e201c1fcd4f09245d.wav",
+      "潮湿，近义词，湿润。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/2e9242636103c5c7d360.wav",
+      "流利，近义词，流畅。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/5707b2fa57349bb4b86a.wav",
+      "流畅，近义词，流利。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/9da665722709a985e4b0.wav",
+      "突然，近义词，忽然。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/1acae6202ddf9a35c33f.wav",
+      "忽然，近义词，突然。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/3c240221ef5019dfd65d.wav",
+      "洁白，近义词，雪白。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/2ade6ded855a1ae0f7cc.wav",
+      "雪白，近义词，洁白。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/383826d3f72a276c5255.wav",
+      "安静，反义词，喧闹。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/73435c7f2604e7fd295b.wav",
+      "喧闹，反义词，安静。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/1a265314280990af2563.wav",
+      "粗壮，反义词，纤细。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/2c1bf575a88a7a3a8417.wav",
+      "纤细，反义词，粗壮。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/da3e01d107f611f6b080.wav",
+      "鸦雀无声，反义词，人声鼎沸。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/1a201e52d776978f7958.wav",
+      "人声鼎沸，反义词，鸦雀无声。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/2c7f0378f1b925325c11.wav",
+      "洁白，反义词，乌黑。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/0c41acd63e46d5d9d569.wav",
+      "乌黑，反义词，洁白。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/badc0f2b53adb469b4db.wav",
+      "详细，反义词，粗略。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/e4ffb7d7f2c4860373a9.wav",
+      "粗略，反义词，详细。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/be573a835500579b7672.wav",
+      "糊里糊涂，反义词，明明白白。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/8bb0e302502af296fd79.wav",
+      "明明白白，反义词，糊里糊涂。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/acfc9a4d4949ebebd830.wav",
+      "湿润，反义词，干燥。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/d5c8c754f475c5780baf.wav",
+      "干燥，反义词，湿润。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/bccd8bf32694ed15aa6c.wav",
+      "急急忙忙，反义词，不慌不忙。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/e14a1909b89ecb03fa03.wav",
+      "不慌不忙，反义词，急急忙忙。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/0fda27fadd1006b8e91c.wav",
+      "认真，反义词，马虎。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/5b4c55b01b3d9d9bca2e.wav",
+      "马虎，反义词，认真。": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/14115af061675713813d.wav"
+    },
+    "custom": true,
+    "contentKind": "knowledge",
+    "narrationVersion": 5,
+    "items": [
+      {
+        "id": "q-1790288733721-2",
+        "category": "近义词",
+        "kind": "pair",
+        "prompt": "糊里糊涂",
+        "answer": "稀里糊涂"
+      },
+      {
+        "id": "q-1790288733721-3",
+        "category": "近义词",
+        "kind": "pair",
+        "prompt": "摇晃",
+        "answer": "晃动"
+      },
+      {
+        "id": "q-1790288733721-4",
+        "category": "近义词",
+        "kind": "pair",
+        "prompt": "招引",
+        "answer": "吸引"
+      },
+      {
+        "id": "q-1790288733721-5",
+        "category": "近义词",
+        "kind": "pair",
+        "prompt": "愉快",
+        "answer": "快乐"
+      },
+      {
+        "id": "q-1790288733721-7",
+        "category": "近义词",
+        "kind": "pair",
+        "prompt": "急急忙忙",
+        "answer": "匆匆忙忙"
+      },
+      {
+        "id": "q-1790288733721-8",
+        "category": "近义词",
+        "kind": "pair",
+        "prompt": "照例",
+        "answer": "照常"
+      },
+      {
+        "id": "q-1790288733721-9",
+        "category": "近义词",
+        "kind": "pair",
+        "prompt": "轰响",
+        "answer": "轰鸣"
+      },
+      {
+        "id": "q-1790288733721-10",
+        "category": "近义词",
+        "kind": "pair",
+        "prompt": "湿润",
+        "answer": "潮湿"
+      },
+      {
+        "id": "q-1790288733721-11",
+        "category": "近义词",
+        "kind": "pair",
+        "prompt": "流利",
+        "answer": "流畅"
+      },
+      {
+        "id": "q-1790288733721-12",
+        "category": "近义词",
+        "kind": "pair",
+        "prompt": "突然",
+        "answer": "忽然"
+      },
+      {
+        "id": "q-1790288733721-13",
+        "category": "近义词",
+        "kind": "pair",
+        "prompt": "洁白",
+        "answer": "雪白"
+      },
+      {
+        "id": "q-1790292057855-1",
+        "category": "反义词",
+        "kind": "pair",
+        "prompt": "安静",
+        "answer": "喧闹"
+      },
+      {
+        "id": "q-1790292057855-2",
+        "category": "反义词",
+        "kind": "pair",
+        "prompt": "粗壮",
+        "answer": "纤细"
+      },
+      {
+        "id": "q-1790292057855-3",
+        "category": "反义词",
+        "kind": "pair",
+        "prompt": "鸦雀无声",
+        "answer": "人声鼎沸"
+      },
+      {
+        "id": "q-1790292057855-4",
+        "category": "反义词",
+        "kind": "pair",
+        "prompt": "洁白",
+        "answer": "乌黑"
+      },
+      {
+        "id": "q-1790292057855-5",
+        "category": "反义词",
+        "kind": "pair",
+        "prompt": "详细",
+        "answer": "粗略"
+      },
+      {
+        "id": "q-1790292057855-6",
+        "category": "反义词",
+        "kind": "pair",
+        "prompt": "糊里糊涂",
+        "answer": "明明白白"
+      },
+      {
+        "id": "q-1790292057855-7",
+        "category": "反义词",
+        "kind": "pair",
+        "prompt": "湿润",
+        "answer": "干燥"
+      },
+      {
+        "id": "q-1790292057855-8",
+        "category": "反义词",
+        "kind": "pair",
+        "prompt": "急急忙忙",
+        "answer": "不慌不忙"
+      },
+      {
+        "id": "q-1790292111942-9",
+        "category": "反义词",
+        "kind": "pair",
+        "prompt": "认真",
+        "answer": "马虎"
+      },
+      {
+        "id": "q-1790293177358-1",
+        "category": "表示声音的词语",
+        "kind": "dictation",
+        "prompt": "咿咿呀呀",
+        "answer": "咿咿呀呀"
+      },
+      {
+        "id": "q-1790293177358-2",
+        "category": "表示声音的词语",
+        "kind": "dictation",
+        "prompt": "簌簌",
+        "answer": "簌簌"
+      },
+      {
+        "id": "q-1790293177358-3",
+        "category": "表示声音的词语",
+        "kind": "dictation",
+        "prompt": "叽叽喳喳",
+        "answer": "叽叽喳喳"
+      },
+      {
+        "id": "q-1790293177358-4",
+        "category": "表示声音的词语",
+        "kind": "dictation",
+        "prompt": "哗哗",
+        "answer": "哗哗"
+      },
+      {
+        "id": "q-1790293177358-5",
+        "category": "表示声音的词语",
+        "kind": "dictation",
+        "prompt": "乒乒乓乓",
+        "answer": "乒乒乓乓"
+      },
+      {
+        "id": "q-1790293177358-6",
+        "category": "表示声音的词语",
+        "kind": "dictation",
+        "prompt": "沙沙",
+        "answer": "沙沙"
+      },
+      {
+        "id": "q-1790293177358-7",
+        "category": "表示声音的词语",
+        "kind": "dictation",
+        "prompt": "叮叮咚咚",
+        "answer": "叮叮咚咚"
+      },
+      {
+        "id": "q-1790293177358-8",
+        "category": "表示声音的词语",
+        "kind": "dictation",
+        "prompt": "呼呼",
+        "answer": "呼呼"
+      },
+      {
+        "id": "q-1790293177358-9",
+        "category": "表示声音的词语",
+        "kind": "dictation",
+        "prompt": "丁丁当当",
+        "answer": "丁丁当当"
+      },
+      {
+        "id": "q-1790293177358-10",
+        "category": "表示声音的词语",
+        "kind": "dictation",
+        "prompt": "隆隆",
+        "answer": "隆隆"
+      },
+      {
+        "id": "q-1790293201530-11",
+        "category": "表示时间短的词语",
+        "kind": "dictation",
+        "prompt": "霎时",
+        "answer": "霎时"
+      },
+      {
+        "id": "q-1790293201530-12",
+        "category": "表示时间短的词语",
+        "kind": "dictation",
+        "prompt": "顷刻",
+        "answer": "顷刻"
+      },
+      {
+        "id": "q-1790293201530-13",
+        "category": "表示时间短的词语",
+        "kind": "dictation",
+        "prompt": "一刹那",
+        "answer": "一刹那"
+      },
+      {
+        "id": "q-1790293201530-14",
+        "category": "表示时间短的词语",
+        "kind": "dictation",
+        "prompt": "一眨眼",
+        "answer": "一眨眼"
+      },
+      {
+        "id": "q-1790293201530-15",
+        "category": "表示时间短的词语",
+        "kind": "dictation",
+        "prompt": "刹那间",
+        "answer": "刹那间"
+      },
+      {
+        "id": "q-1790293201530-16",
+        "category": "表示时间短的词语",
+        "kind": "dictation",
+        "prompt": "眨眼间",
+        "answer": "眨眼间"
+      },
+      {
+        "id": "q-1790293201530-17",
+        "category": "表示时间短的词语",
+        "kind": "dictation",
+        "prompt": "一转眼",
+        "answer": "一转眼"
+      },
+      {
+        "id": "q-1790293201530-18",
+        "category": "表示时间短的词语",
+        "kind": "dictation",
+        "prompt": "转眼间",
+        "answer": "转眼间"
+      },
+      {
+        "id": "q-1790296185220-19",
+        "category": "一什么不什么式词语",
+        "kind": "dictation",
+        "prompt": "一字不漏",
+        "answer": "一字不漏"
+      },
+      {
+        "id": "q-1790296185220-20",
+        "category": "一什么不什么式词语",
+        "kind": "dictation",
+        "prompt": "一丝不苟",
+        "answer": "一丝不苟"
+      },
+      {
+        "id": "q-1790296185220-21",
+        "category": "一什么不什么式词语",
+        "kind": "dictation",
+        "prompt": "一言不发",
+        "answer": "一言不发"
+      },
+      {
+        "id": "q-1790296185220-22",
+        "category": "一什么不什么式词语",
+        "kind": "dictation",
+        "prompt": "一文不值",
+        "answer": "一文不值"
+      },
+      {
+        "id": "q-1790296185220-23",
+        "category": "一什么不什么式词语",
+        "kind": "dictation",
+        "prompt": "一声不响",
+        "answer": "一声不响"
+      },
+      {
+        "id": "q-1790296185220-24",
+        "category": "一什么不什么式词语",
+        "kind": "dictation",
+        "prompt": "一毛不拔",
+        "answer": "一毛不拔"
+      },
+      {
+        "id": "q-1790296185220-25",
+        "category": "一什么不什么式词语",
+        "kind": "dictation",
+        "prompt": "一声不吭",
+        "answer": "一声不吭"
+      },
+      {
+        "id": "q-1790296185220-26",
+        "category": "一什么不什么式词语",
+        "kind": "dictation",
+        "prompt": "一窍不通",
+        "answer": "一窍不通"
+      },
+      {
+        "id": "q-1790296185220-27",
+        "category": "一什么不什么式词语",
+        "kind": "dictation",
+        "prompt": "一成不变",
+        "answer": "一成不变"
+      },
+      {
+        "id": "q-1790296185220-28",
+        "category": "一什么不什么式词语",
+        "kind": "dictation",
+        "prompt": "一尘不染",
+        "answer": "一尘不染"
+      }
+    ]
+  },
+  {
+    "id": "admin-f13bc438af564de288cc1189913ec0c9",
+    "_revision": "456ac37f3f1a4f99bb4abd25e2c25d4f",
+    "subject": "语文",
+    "grade": "三年级上册",
+    "label": "第九课",
+    "title": "犟龟",
+    "words": [
+      "陶醉",
+      "舒适",
+      "谈话",
+      "婚礼",
+      "邀请",
+      "庆典",
+      "路途",
+      "沉思",
+      "包括",
+      "历史",
+      "充满",
+      "事半功倍",
+      "迷迷糊糊",
+      "几乎",
+      "坚持",
+      "居高临下",
+      "官员",
+      "暂时"
+    ],
+    "audio": {
+      "陶醉": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/ab11948f61461c2abefd.wav",
+      "舒适": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/5518dafc036ba96de4c4.wav",
+      "谈话": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/9eabb629b41c67122095.wav",
+      "婚礼": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/508446979c12f60e0a32.wav",
+      "邀请": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/c5ea75b87e9ee3a64bf6.wav",
+      "庆典": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/d09a0a02d414e38baef0.wav",
+      "路途": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/c61e56d42c2da8fd5f74.wav",
+      "沉思": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/0e86fcdca9f4b516c6fd.wav",
+      "包括": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/a3d89917f6cc21b523dd.wav",
+      "历史": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/b6979af9c02feb0076dd.wav",
+      "充满": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/3187bbc6929980d8f75b.wav",
+      "事半功倍": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/c1b8ae589d4fb24a65d9.wav",
+      "迷迷糊糊": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/03746cbd2d5534d229ce.wav",
+      "几乎": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/d0ed0cbdce692f2cf054.wav",
+      "坚持": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/6fc0ab8b1f1b944b0213.wav",
+      "居高临下": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/4d409f0989f5c99f1ddb.wav",
+      "官员": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/da62ba494b19df3c56cc.wav",
+      "暂时": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/2e6e138db3e41a0318fd.wav"
+    },
+    "custom": true
+  },
+  {
+    "id": "admin-0c9144721a5a400085ba18d7376bcea9",
+    "_revision": "a555b4a98f7640598c5b922dbba6c201",
+    "subject": "英语",
+    "grade": "三年级上册",
+    "label": "Unit 3",
+    "title": "Unit 3 - Find the rule",
+    "words": [
+      "What's this? It's a carrot plant.",
+      "What's that? It's a sunflower.",
+      "What's this? It's a tomato.",
+      "What's that? It's an orange tree."
+    ],
+    "audio": {
+      "What's this? It's a carrot plant.": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/0ea11967350c41e3e7e1.wav"
+      },
+      "What's that? It's a sunflower.": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/f59b691d9b8e5c320015.wav"
+      },
+      "What's this? It's a tomato.": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/f51a0fa3a57704ae86b5.wav"
+      },
+      "What's that? It's an orange tree.": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/bb2dfa545f66884167a0.wav"
+      }
+    },
+    "custom": true,
+    "meaning": {
+      "What's this? It's a carrot plant.": "",
+      "What's that? It's a sunflower.": "",
+      "What's this? It's a tomato.": "",
+      "What's that? It's an orange tree.": ""
+    },
+    "phonetic": {
+      "What's this? It's a carrot plant.": {
+        "uk": "",
+        "us": ""
+      },
+      "What's that? It's a sunflower.": {
+        "uk": "",
+        "us": ""
+      },
+      "What's this? It's a tomato.": {
+        "uk": "",
+        "us": ""
+      },
+      "What's that? It's an orange tree.": {
+        "uk": "",
+        "us": ""
+      }
+    }
+  },
+  {
+    "id": "admin-146bac281c3844929a56c9ce04147097",
+    "_revision": "be2673565ce84d68b6579477960fdb80",
+    "subject": "英语",
+    "grade": "三年级上册",
+    "label": "Unit 3",
+    "title": "Unit 3 - Words",
+    "words": [
+      "garden",
+      "welcome",
+      "open",
+      "close",
+      "flower",
+      "vegetable",
+      "plant",
+      "beautiful",
+      "see",
+      "orange tree",
+      "tomato",
+      "place",
+      "carrot",
+      "leaf",
+      "water",
+      "grandpa",
+      "grow",
+      "grandma",
+      "tea"
+    ],
+    "audio": {
+      "garden": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/f20c2294405e150c4b7a.wav"
+      },
+      "welcome": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/2b9eb1d5a5d77b18ae06.wav"
+      },
+      "open": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/9205ebd5c402259d378f.wav"
+      },
+      "close": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/bea6f1868ccf9db544ca.wav"
+      },
+      "flower": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/86543a418aa786af8261.wav"
+      },
+      "vegetable": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/3ae08546461cf14c2ab7.wav"
+      },
+      "plant": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/ad669272c64043c2fa68.wav"
+      },
+      "beautiful": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/61ab10e8167e39825e50.wav"
+      },
+      "see": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/b36c3fb1db70c3afcdaa.wav"
+      },
+      "orange tree": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/00fa4689bf3ab5e46cec.wav"
+      },
+      "tomato": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/2a805d0a0eb03b49d63a.wav"
+      },
+      "place": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/46ba5e573f81d1fc4fd8.wav"
+      },
+      "carrot": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/113422208451e7277218.wav"
+      },
+      "leaf": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/68e1a5294b2379065085.wav"
+      },
+      "water": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/17310e0b0da5cbbb7469.wav"
+      },
+      "grandpa": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/4bfad49a7bbd59a11d0e.wav"
+      },
+      "grow": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/61daeca380d820cb79f1.wav"
+      },
+      "grandma": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/3faf42e58830dcb6f014.wav"
+      },
+      "tea": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/0c6963254fde5799c6cc.wav"
+      }
+    },
+    "custom": true,
+    "meaning": {
+      "garden": "",
+      "welcome": "",
+      "open": "",
+      "close": "",
+      "flower": "",
+      "vegetable": "",
+      "plant": "",
+      "beautiful": "",
+      "see": "",
+      "orange tree": "",
+      "tomato": "",
+      "place": "",
+      "carrot": "",
+      "leaf": "",
+      "water": "",
+      "grandpa": "",
+      "grow": "",
+      "grandma": "",
+      "tea": ""
+    },
+    "phonetic": {
+      "garden": {
+        "uk": "",
+        "us": ""
+      },
+      "welcome": {
+        "uk": "",
+        "us": ""
+      },
+      "open": {
+        "uk": "",
+        "us": ""
+      },
+      "close": {
+        "uk": "",
+        "us": ""
+      },
+      "flower": {
+        "uk": "",
+        "us": ""
+      },
+      "vegetable": {
+        "uk": "",
+        "us": ""
+      },
+      "plant": {
+        "uk": "",
+        "us": ""
+      },
+      "beautiful": {
+        "uk": "",
+        "us": ""
+      },
+      "see": {
+        "uk": "",
+        "us": ""
+      },
+      "orange tree": {
+        "uk": "",
+        "us": ""
+      },
+      "tomato": {
+        "uk": "",
+        "us": ""
+      },
+      "place": {
+        "uk": "",
+        "us": ""
+      },
+      "carrot": {
+        "uk": "",
+        "us": ""
+      },
+      "leaf": {
+        "uk": "",
+        "us": ""
+      },
+      "water": {
+        "uk": "",
+        "us": ""
+      },
+      "grandpa": {
+        "uk": "",
+        "us": ""
+      },
+      "grow": {
+        "uk": "",
+        "us": ""
+      },
+      "grandma": {
+        "uk": "",
+        "us": ""
+      },
+      "tea": {
+        "uk": "",
+        "us": ""
+      }
+    }
+  },
+  {
+    "id": "admin-48d82f86f4e04a84b71037abf03daa06",
+    "_revision": "1580252b1f214d51bc4d174ba20b15c1",
+    "subject": "英语",
+    "grade": "三年级上册",
+    "label": "Unit 2",
+    "title": "Unit 2 - Find the rule",
+    "words": [
+      "He is good at running.",
+      "You are good at running",
+      "She is good at telling stories.",
+      "I'm good at playing football."
+    ],
+    "audio": {
+      "He is good at running.": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/32fd8c8b277887c7d931.wav"
+      },
+      "You are good at running": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/44e68e2bef15646ec8a6.wav"
+      },
+      "She is good at telling stories.": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/933c6b7bf24f3d973375.wav"
+      },
+      "I'm good at playing football.": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/5a11ba52ab4af0aad3f5.wav"
+      }
+    },
+    "custom": true,
+    "meaning": {
+      "He is good at running.": "",
+      "You are good at running": "",
+      "She is good at telling stories.": "",
+      "I'm good at playing football.": ""
+    },
+    "phonetic": {
+      "He is good at running.": {
+        "uk": "",
+        "us": ""
+      },
+      "You are good at running": {
+        "uk": "",
+        "us": ""
+      },
+      "She is good at telling stories.": {
+        "uk": "",
+        "us": ""
+      },
+      "I'm good at playing football.": {
+        "uk": "",
+        "us": ""
+      }
+    }
+  },
+  {
+    "id": "admin-d7370d0e0b8d4b31ac02f8958297b742",
+    "_revision": "860ff68f514c4bafb585f918e9403f94",
+    "subject": "英语",
+    "grade": "三年级上册",
+    "label": "Unit 2",
+    "title": "Unit 2 - Words",
+    "words": [
+      "be good at",
+      "draw",
+      "tell a story",
+      "dance",
+      "sing",
+      "use the computer",
+      "player",
+      "run",
+      "cool",
+      "be proud of",
+      "fly",
+      "jump",
+      "rabbit",
+      "walk",
+      "umbrella",
+      "What's wrong?",
+      "It doesn't matter"
+    ],
+    "audio": {
+      "be good at": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/4eb97f34b6af1f09e4a0.wav"
+      },
+      "draw": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/66bf75d030892ea15d7e.wav"
+      },
+      "tell a story": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/c773f729d8581564e9e7.wav"
+      },
+      "dance": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/9e68b81a811de2ac0966.wav"
+      },
+      "sing": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/b3701f58ba42047876db.wav"
+      },
+      "use the computer": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/69c1e0240ef378339b13.wav"
+      },
+      "player": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/724db0c2be50720b7209.wav"
+      },
+      "run": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/2c5aaf6045869026a439.wav"
+      },
+      "cool": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/cd6517737698b29907ea.wav"
+      },
+      "be proud of": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/b719f9142169a7f1d737.wav"
+      },
+      "fly": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/8197e84129880fd06cce.wav"
+      },
+      "jump": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/5a837aff3009d8c6e740.wav"
+      },
+      "rabbit": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/5ce71b19332f4972c69c.wav"
+      },
+      "walk": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/85eb260ea544c77c24ee.wav"
+      },
+      "umbrella": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/d95bdaeba0107c1b152a.wav"
+      },
+      "What's wrong?": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/4eeaefb925ee34b989e1.wav"
+      },
+      "It doesn't matter": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/35ab84d867a36a973730.wav"
+      }
+    },
+    "custom": true,
+    "meaning": {
+      "be good at": "",
+      "draw": "",
+      "tell a story": "",
+      "dance": "",
+      "sing": "",
+      "use the computer": "",
+      "player": "",
+      "run": "",
+      "cool": "",
+      "be proud of": "",
+      "fly": "",
+      "jump": "",
+      "rabbit": "",
+      "walk": "",
+      "umbrella": "",
+      "What's wrong?": "",
+      "It doesn't matter": ""
+    },
+    "phonetic": {
+      "be good at": {
+        "uk": "",
+        "us": ""
+      },
+      "draw": {
+        "uk": "",
+        "us": ""
+      },
+      "tell a story": {
+        "uk": "",
+        "us": ""
+      },
+      "dance": {
+        "uk": "",
+        "us": ""
+      },
+      "sing": {
+        "uk": "",
+        "us": ""
+      },
+      "use the computer": {
+        "uk": "",
+        "us": ""
+      },
+      "player": {
+        "uk": "",
+        "us": ""
+      },
+      "run": {
+        "uk": "",
+        "us": ""
+      },
+      "cool": {
+        "uk": "",
+        "us": ""
+      },
+      "be proud of": {
+        "uk": "",
+        "us": ""
+      },
+      "fly": {
+        "uk": "",
+        "us": ""
+      },
+      "jump": {
+        "uk": "",
+        "us": ""
+      },
+      "rabbit": {
+        "uk": "",
+        "us": ""
+      },
+      "walk": {
+        "uk": "",
+        "us": ""
+      },
+      "umbrella": {
+        "uk": "",
+        "us": ""
+      },
+      "What's wrong?": {
+        "uk": "",
+        "us": ""
+      },
+      "It doesn't matter": {
+        "uk": "",
+        "us": ""
+      }
+    }
+  },
+  {
+    "id": "admin-d8f8f1034ce746b28011e6125d19a57e",
+    "_revision": "eca8005d758a4550b8dac0a52038d8cb",
+    "subject": "英语",
+    "grade": "三年级上册",
+    "label": "Unit 1",
+    "title": "Unit 1 - Find the rule",
+    "words": [
+      "What's your goal? I want to speak English well.",
+      "What's your goal? I want to make new friends.",
+      "What's your goal? I want to study hard."
+    ],
+    "audio": {
+      "What's your goal? I want to speak English well.": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/403dff1e57985965b4a8.wav"
+      },
+      "What's your goal? I want to make new friends.": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/e2b93865d93cd6d1c547.wav"
+      },
+      "What's your goal? I want to study hard.": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/5019f81c72090a24a5c6.wav"
+      }
+    },
+    "custom": true,
+    "meaning": {
+      "What's your goal? I want to speak English well.": "",
+      "What's your goal? I want to make new friends.": "",
+      "What's your goal? I want to study hard.": ""
+    },
+    "phonetic": {
+      "What's your goal? I want to speak English well.": {
+        "uk": "",
+        "us": ""
+      },
+      "What's your goal? I want to make new friends.": {
+        "uk": "",
+        "us": ""
+      },
+      "What's your goal? I want to study hard.": {
+        "uk": "",
+        "us": ""
+      }
+    }
+  },
+  {
+    "id": "admin-bd1bbea63b3d42ed9b182a239142a70c",
+    "_revision": "e85ea3808f9142e0b49600045b5d35d2",
+    "subject": "英语",
+    "grade": "三年级上册",
+    "label": "Unit 1",
+    "title": "Unit 1 - Words",
+    "words": [
+      "new",
+      "school",
+      "classmate",
+      "teacher",
+      "play sports",
+      "read",
+      "book",
+      "study",
+      "hard",
+      "goal",
+      "want",
+      "friend",
+      "plan",
+      "follow"
+    ],
+    "audio": {
+      "new": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/6c87bc425657812ce5bc.wav"
+      },
+      "school": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/8080e11676fb5848ce4d.wav"
+      },
+      "classmate": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/0c7e38e939e5aa403f29.wav"
+      },
+      "teacher": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/858e2dd8d1ca0fe9789d.wav"
+      },
+      "play sports": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/a41ce2494fef509885fe.wav"
+      },
+      "read": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/7b8d268b0015041a062c.wav"
+      },
+      "book": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/5c870ebd6591fa27184e.wav"
+      },
+      "study": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/2860025cc9ff733065f7.wav"
+      },
+      "hard": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/e3180740d0cbd31aec39.wav"
+      },
+      "goal": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/00c7344d1054d9aa6b5d.wav"
+      },
+      "want": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/05f0a8968b5c9863a15e.wav"
+      },
+      "friend": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/3c78f0436d1f562593be.wav"
+      },
+      "plan": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/2073299691306349bb4f.wav"
+      },
+      "follow": {
+        "us": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%8B%B1%E8%AF%AD/c511da2e4c95eaaf7b19.wav"
+      }
+    },
+    "custom": true,
+    "meaning": {
+      "new": "",
+      "school": "",
+      "classmate": "",
+      "teacher": "",
+      "play sports": "",
+      "read": "",
+      "book": "",
+      "study": "",
+      "hard": "",
+      "goal": "",
+      "want": "",
+      "friend": "",
+      "plan": "",
+      "follow": ""
+    },
+    "phonetic": {
+      "new": {
+        "uk": "",
+        "us": ""
+      },
+      "school": {
+        "uk": "",
+        "us": ""
+      },
+      "classmate": {
+        "uk": "",
+        "us": ""
+      },
+      "teacher": {
+        "uk": "",
+        "us": ""
+      },
+      "play sports": {
+        "uk": "",
+        "us": ""
+      },
+      "read": {
+        "uk": "",
+        "us": ""
+      },
+      "book": {
+        "uk": "",
+        "us": ""
+      },
+      "study": {
+        "uk": "",
+        "us": ""
+      },
+      "hard": {
+        "uk": "",
+        "us": ""
+      },
+      "goal": {
+        "uk": "",
+        "us": ""
+      },
+      "want": {
+        "uk": "",
+        "us": ""
+      },
+      "friend": {
+        "uk": "",
+        "us": ""
+      },
+      "plan": {
+        "uk": "",
+        "us": ""
+      },
+      "follow": {
+        "uk": "",
+        "us": ""
+      }
+    }
+  },
+  {
+    "id": "admin-1789990089107",
+    "grade": "三年级上册",
+    "label": "语文园地二",
+    "title": "语文园地二",
+    "words": [
+      "春暖花开",
+      "草长莺飞",
+      "万物复苏",
+      "春回大地",
+      "桃红柳绿",
+      "莺歌燕舞",
+      "绿树成荫",
+      "炎热",
+      "烈日炎炎",
+      "绿草如茵",
+      "骄阳似火",
+      "电闪雷鸣",
+      "枝繁叶茂",
+      "凉爽",
+      "硕果累累",
+      "秋高气爽",
+      "一叶知秋",
+      "秋风习习",
+      "天高云淡",
+      "金风送爽",
+      "寒冷",
+      "白雪皑皑",
+      "鹅毛大雪",
+      "天寒地冻",
+      "寒风呼啸",
+      "滴水成冰",
+      "寒风刺骨"
+    ],
+    "audio": {
+      "春暖花开": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E6%98%A5%E6%9A%96%E8%8A%B1%E5%BC%80.wav",
+      "草长莺飞": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E8%8D%89%E9%95%BF%E8%8E%BA%E9%A3%9E.wav",
+      "万物复苏": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E4%B8%87%E7%89%A9%E5%A4%8D%E8%8B%8F.wav",
+      "春回大地": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E6%98%A5%E5%9B%9E%E5%A4%A7%E5%9C%B0.wav",
+      "桃红柳绿": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E6%A1%83%E7%BA%A2%E6%9F%B3%E7%BB%BF.wav",
+      "莺歌燕舞": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E8%8E%BA%E6%AD%8C%E7%87%95%E8%88%9E.wav",
+      "绿树成荫": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E7%BB%BF%E6%A0%91%E6%88%90%E8%8D%AB.wav",
+      "炎热": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E7%82%8E%E7%83%AD.wav",
+      "烈日炎炎": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E7%83%88%E6%97%A5%E7%82%8E%E7%82%8E.wav",
+      "绿草如茵": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E7%BB%BF%E8%8D%89%E5%A6%82%E8%8C%B5.wav",
+      "骄阳似火": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E9%AA%84%E9%98%B3%E4%BC%BC%E7%81%AB.wav",
+      "电闪雷鸣": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E7%94%B5%E9%97%AA%E9%9B%B7%E9%B8%A3.wav",
+      "枝繁叶茂": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E6%9E%9D%E7%B9%81%E5%8F%B6%E8%8C%82.wav",
+      "凉爽": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E5%87%89%E7%88%BD.wav",
+      "硕果累累": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E7%A1%95%E6%9E%9C%E7%B4%AF%E7%B4%AF.wav",
+      "秋高气爽": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E7%A7%8B%E9%AB%98%E6%B0%94%E7%88%BD.wav",
+      "一叶知秋": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E4%B8%80%E5%8F%B6%E7%9F%A5%E7%A7%8B.wav",
+      "秋风习习": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E7%A7%8B%E9%A3%8E%E4%B9%A0%E4%B9%A0.wav",
+      "天高云淡": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E5%A4%A9%E9%AB%98%E4%BA%91%E6%B7%A1.wav",
+      "金风送爽": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E9%87%91%E9%A3%8E%E9%80%81%E7%88%BD.wav",
+      "寒冷": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E5%AF%92%E5%86%B7.wav",
+      "白雪皑皑": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E7%99%BD%E9%9B%AA%E7%9A%91%E7%9A%91.wav",
+      "鹅毛大雪": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA.wav",
+      "天寒地冻": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E5%A4%A9%E5%AF%92%E5%9C%B0%E5%86%BB.wav",
+      "寒风呼啸": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E5%AF%92%E9%A3%8E%E5%91%BC%E5%95%B8.wav",
+      "滴水成冰": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E6%BB%B4%E6%B0%B4%E6%88%90%E5%86%B0.wav",
+      "寒风刺骨": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E5%9B%9B%E5%AD%A3_%E5%AF%92%E9%A3%8E%E5%88%BA%E9%AA%A8.wav"
+    },
+    "custom": true
+  },
+  {
+    "id": "admin-1789876481755",
+    "grade": "三年级上册",
+    "label": "第七课",
+    "title": "听听秋的声音",
+    "words": [
+      "道别",
+      "抖动",
+      "翅膀",
+      "振动",
+      "大雁",
+      "歌韵",
+      "叮咛",
+      "暖洋洋",
+      "歌吟",
+      "掠过",
+      "透明",
+      "辽阔",
+      "饱满",
+      "匆匆"
+    ],
+    "audio": {
+      "道别": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%83%E8%AF%BE_%E9%81%93%E5%88%AB.wav",
+      "抖动": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%83%E8%AF%BE_%E6%8A%96%E5%8A%A8.wav",
+      "翅膀": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%83%E8%AF%BE_%E7%BF%85%E8%86%80.wav",
+      "振动": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%83%E8%AF%BE_%E6%8C%AF%E5%8A%A8.wav",
+      "大雁": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%83%E8%AF%BE_%E5%A4%A7%E9%9B%81.wav",
+      "歌韵": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%83%E8%AF%BE_%E6%AD%8C%E9%9F%B5.wav",
+      "叮咛": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%83%E8%AF%BE_%E5%8F%AE%E5%92%9B.wav",
+      "暖洋洋": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%83%E8%AF%BE_%E6%9A%96%E6%B4%8B%E6%B4%8B.wav",
+      "歌吟": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%83%E8%AF%BE_%E6%AD%8C%E5%90%9F.wav",
+      "掠过": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%83%E8%AF%BE_%E6%8E%A0%E8%BF%87.wav",
+      "透明": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%83%E8%AF%BE_%E9%80%8F%E6%98%8E.wav",
+      "辽阔": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%83%E8%AF%BE_%E8%BE%BD%E9%98%94.wav",
+      "饱满": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%83%E8%AF%BE_%E9%A5%B1%E6%BB%A1.wav",
+      "匆匆": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%83%E8%AF%BE_%E5%8C%86%E5%8C%86.wav"
+    },
+    "custom": true
+  },
+  {
+    "id": "admin-1789876026149",
+    "grade": "三年级上册",
+    "label": "第六课",
+    "title": "秋天的雨",
+    "words": [
+      "钥匙",
+      "秋天",
+      "温柔",
+      "清凉",
+      "留意",
+      "五彩缤纷",
+      "炎热",
+      "银杏",
+      "一枚邮票",
+      "枫树",
+      "果树",
+      "凉爽",
+      "拥挤",
+      "橘子",
+      "仙子",
+      "菊花",
+      "气味",
+      "频频",
+      "香梨",
+      "香甜",
+      "勾引",
+      "喇叭",
+      "松果",
+      "挖洞",
+      "油亮亮",
+      "丰收"
+    ],
+    "audio": {
+      "钥匙": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E9%92%A5%E5%8C%99.wav",
+      "秋天": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E7%A7%8B%E5%A4%A9.wav",
+      "温柔": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E6%B8%A9%E6%9F%94.wav",
+      "清凉": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E6%B8%85%E5%87%89.wav",
+      "留意": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E7%95%99%E6%84%8F.wav",
+      "五彩缤纷": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E4%BA%94%E5%BD%A9%E7%BC%A4%E7%BA%B7.wav",
+      "炎热": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E7%82%8E%E7%83%AD.wav",
+      "银杏": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E9%93%B6%E6%9D%8F.wav",
+      "一枚邮票": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E4%B8%80%E6%9E%9A%E9%82%AE%E7%A5%A8.wav",
+      "枫树": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E6%9E%AB%E6%A0%91.wav",
+      "果树": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E6%9E%9C%E6%A0%91.wav",
+      "凉爽": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E5%87%89%E7%88%BD.wav",
+      "拥挤": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E6%8B%A5%E6%8C%A4.wav",
+      "橘子": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E6%A9%98%E5%AD%90.wav",
+      "仙子": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E4%BB%99%E5%AD%90.wav",
+      "菊花": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E8%8F%8A%E8%8A%B1.wav",
+      "气味": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E6%B0%94%E5%91%B3.wav",
+      "频频": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E9%A2%91%E9%A2%91.wav",
+      "香梨": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E9%A6%99%E6%A2%A8.wav",
+      "香甜": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E9%A6%99%E7%94%9C.wav",
+      "勾引": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E5%8B%BE%E5%BC%95.wav",
+      "喇叭": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E5%96%87%E5%8F%AD.wav",
+      "松果": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E6%9D%BE%E6%9E%9C.wav",
+      "挖洞": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E6%8C%96%E6%B4%9E.wav",
+      "油亮亮": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E6%B2%B9%E4%BA%AE%E4%BA%AE.wav",
+      "丰收": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E5%85%AD%E8%AF%BE_%E4%B8%B0%E6%94%B6.wav"
+    },
+    "custom": true
+  },
+  {
+    "id": "admin-1789836857579",
+    "grade": "三年级上册",
+    "label": "第五课",
+    "title": "铺满金色巴掌的水泥道",
+    "words": [
+      "粘贴",
+      "秋风",
+      "地面",
+      "放晴",
+      "地毯",
+      "印章",
+      "图案",
+      "落叶",
+      "尽头",
+      "闪闪发光",
+      "平展",
+      "排列",
+      "凌乱",
+      "规则",
+      "增添",
+      "棕色",
+      "歌唱",
+      "迟到",
+      "明朗",
+      "亮晶晶",
+      "雨珠",
+      "湿漉漉"
+    ],
+    "audio": {
+      "粘贴": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E7%B2%98%E8%B4%B4.wav",
+      "秋风": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E7%A7%8B%E9%A3%8E.wav",
+      "地面": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E5%9C%B0%E9%9D%A2.wav",
+      "放晴": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E6%94%BE%E6%99%B4.wav",
+      "地毯": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E5%9C%B0%E6%AF%AF.wav",
+      "印章": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E5%8D%B0%E7%AB%A0.wav",
+      "图案": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E5%9B%BE%E6%A1%88.wav",
+      "落叶": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E8%90%BD%E5%8F%B6.wav",
+      "尽头": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E5%B0%BD%E5%A4%B4.wav",
+      "闪闪发光": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89.wav",
+      "平展": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E5%B9%B3%E5%B1%95.wav",
+      "排列": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E6%8E%92%E5%88%97.wav",
+      "凌乱": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E5%87%8C%E4%B9%B1.wav",
+      "规则": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E8%A7%84%E5%88%99.wav",
+      "增添": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E5%A2%9E%E6%B7%BB.wav",
+      "棕色": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E6%A3%95%E8%89%B2.wav",
+      "歌唱": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E6%AD%8C%E5%94%B1.wav",
+      "迟到": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E8%BF%9F%E5%88%B0.wav",
+      "明朗": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E6%98%8E%E6%9C%97.wav",
+      "亮晶晶": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E4%BA%AE%E6%99%B6%E6%99%B6.wav",
+      "雨珠": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E9%9B%A8%E7%8F%A0.wav",
+      "湿漉漉": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%94%E8%AF%BE_%E6%B9%BF%E6%BC%89%E6%BC%89.wav"
+    },
+    "custom": true
+  },
+  {
+    "id": "admin-1789836353338",
+    "grade": "三年级上册",
+    "label": "第一课",
+    "title": "大青树下的小学",
+    "words": [
+      "山坡",
+      "坪坝",
+      "绒毛",
+      "篮球",
+      "学校",
+      "招呼",
+      "课文",
+      "声音",
+      "招引",
+      "热闹",
+      "古老",
+      "粗壮",
+      "枝干",
+      "洁白",
+      "昂扬",
+      "昂贵",
+      "飘扬",
+      "昂首挺胸",
+      "表扬",
+      "神采飞扬",
+      "城墙",
+      "墙壁",
+      "摇晃",
+      "铜墙铁壁"
+    ],
+    "audio": {
+      "山坡": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E5%B1%B1%E5%9D%A1.wav",
+      "坪坝": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E5%9D%AA%E5%9D%9D.wav",
+      "绒毛": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E7%BB%92%E6%AF%9B.wav",
+      "篮球": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E7%AF%AE%E7%90%83.wav",
+      "学校": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E5%AD%A6%E6%A0%A1.wav",
+      "招呼": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E6%8B%9B%E5%91%BC.wav",
+      "课文": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E8%AF%BE%E6%96%87.wav",
+      "声音": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E5%A3%B0%E9%9F%B3.wav",
+      "招引": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E6%8B%9B%E5%BC%95.wav",
+      "热闹": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E7%83%AD%E9%97%B9.wav",
+      "古老": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E5%8F%A4%E8%80%81.wav",
+      "粗壮": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E7%B2%97%E5%A3%AE.wav",
+      "枝干": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E6%9E%9D%E5%B9%B2.wav",
+      "洁白": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E6%B4%81%E7%99%BD.wav",
+      "昂扬": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E6%98%82%E6%89%AC.wav",
+      "昂贵": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E6%98%82%E8%B4%B5.wav",
+      "飘扬": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E9%A3%98%E6%89%AC.wav",
+      "昂首挺胸": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E6%98%82%E9%A6%96%E6%8C%BA%E8%83%B8.wav",
+      "表扬": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E8%A1%A8%E6%89%AC.wav",
+      "神采飞扬": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E7%A5%9E%E9%87%87%E9%A3%9E%E6%89%AC.wav",
+      "城墙": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E5%9F%8E%E5%A2%99.wav",
+      "墙壁": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E5%A2%99%E5%A3%81.wav",
+      "摇晃": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E6%91%87%E6%99%83.wav",
+      "铜墙铁壁": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%80%E8%AF%BE_%E9%93%9C%E5%A2%99%E9%93%81%E5%A3%81.wav"
+    },
+    "custom": true
+  },
+  {
+    "id": "admin-1789834260786",
+    "grade": "三年级上册",
+    "label": "语文园地一",
+    "title": "语文园地一",
+    "words": [
+      "摇头晃脑",
+      "披头散发",
+      "张牙舞爪",
+      "提心吊胆",
+      "面红耳赤",
+      "手忙脚乱",
+      "手疾眼快",
+      "口干舌燥"
+    ],
+    "audio": {
+      "摇头晃脑": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E8%AF%AD%E6%96%87%E5%9B%AD%E5%9C%B0%E4%B8%80_%E6%91%87%E5%A4%B4%E6%99%83%E8%84%91.wav",
+      "披头散发": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E8%AF%AD%E6%96%87%E5%9B%AD%E5%9C%B0%E4%B8%80_%E6%8A%AB%E5%A4%B4%E6%95%A3%E5%8F%91.wav",
+      "张牙舞爪": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E8%AF%AD%E6%96%87%E5%9B%AD%E5%9C%B0%E4%B8%80_%E5%BC%A0%E7%89%99%E8%88%9E%E7%88%AA.wav",
+      "提心吊胆": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E8%AF%AD%E6%96%87%E5%9B%AD%E5%9C%B0%E4%B8%80_%E6%8F%90%E5%BF%83%E5%90%8A%E8%83%86.wav",
+      "面红耳赤": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E8%AF%AD%E6%96%87%E5%9B%AD%E5%9C%B0%E4%B8%80_%E9%9D%A2%E7%BA%A2%E8%80%B3%E8%B5%A4.wav",
+      "手忙脚乱": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E8%AF%AD%E6%96%87%E5%9B%AD%E5%9C%B0%E4%B8%80_%E6%89%8B%E5%BF%99%E8%84%9A%E4%B9%B1.wav",
+      "手疾眼快": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E8%AF%AD%E6%96%87%E5%9B%AD%E5%9C%B0%E4%B8%80_%E6%89%8B%E7%96%BE%E7%9C%BC%E5%BF%AB.wav",
+      "口干舌燥": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E8%AF%AD%E6%96%87%E5%9B%AD%E5%9C%B0%E4%B8%80_%E5%8F%A3%E5%B9%B2%E8%88%8C%E7%87%A5.wav"
+    },
+    "custom": true
+  },
+  {
+    "id": "admin-1789830229373",
+    "grade": "三年级上册",
+    "label": "第三课",
+    "title": "不懂就要问",
+    "words": [
+      "照例",
+      "背诵",
+      "流利",
+      "圈画",
+      "段落",
+      "练习",
+      "糊涂",
+      "壮胆",
+      "吓呆",
+      "霎时",
+      "鸦雀无声",
+      "戒尺",
+      "厉声",
+      "一字不漏",
+      "详细",
+      "挨打",
+      "清楚",
+      "摇头晃脑"
+    ],
+    "audio": {
+      "照例": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E7%85%A7%E4%BE%8B.wav",
+      "背诵": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E8%83%8C%E8%AF%B5.wav",
+      "流利": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E6%B5%81%E5%88%A9.wav",
+      "圈画": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E5%9C%88%E7%94%BB.wav",
+      "段落": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E6%AE%B5%E8%90%BD.wav",
+      "练习": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E7%BB%83%E4%B9%A0.wav",
+      "糊涂": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E7%B3%8A%E6%B6%82.wav",
+      "壮胆": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E5%A3%AE%E8%83%86.wav",
+      "吓呆": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E5%90%93%E5%91%86.wav",
+      "霎时": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E9%9C%8E%E6%97%B6.wav",
+      "鸦雀无声": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E9%B8%A6%E9%9B%80%E6%97%A0%E5%A3%B0.wav",
+      "戒尺": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E6%88%92%E5%B0%BA.wav",
+      "厉声": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E5%8E%89%E5%A3%B0.wav",
+      "一字不漏": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E4%B8%80%E5%AD%97%E4%B8%8D%E6%BC%8F.wav",
+      "详细": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E8%AF%A6%E7%BB%86.wav",
+      "挨打": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E6%8C%A8%E6%89%93.wav",
+      "清楚": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%B8%89%E8%AF%BE_%E6%B8%85%E6%A5%9A.wav",
+      "摇头晃脑": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E8%AF%AD%E6%96%87%E5%9B%AD%E5%9C%B0%E4%B8%80_%E6%91%87%E5%A4%B4%E6%99%83%E8%84%91.wav"
+    },
+    "custom": true
+  },
+  {
+    "id": "admin-1789828490162",
+    "grade": "三年级上册",
+    "label": "第二课",
+    "title": "花的学校",
+    "words": [
+      "阵雨",
+      "轰响",
+      "风笛",
+      "荒野",
+      "觉得",
+      "狂欢",
+      "放学",
+      "功课",
+      "老师",
+      "处罚",
+      "放假",
+      "互相",
+      "碰触",
+      "黄色",
+      "急急忙忙",
+      "双臂",
+      "湿润"
+    ],
+    "custom": true,
+    "audio": {
+      "阵雨": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E9%98%B5%E9%9B%A8.wav",
+      "轰响": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E8%BD%B0%E5%93%8D.wav",
+      "风笛": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E9%A3%8E%E7%AC%9B.wav",
+      "荒野": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E8%8D%92%E9%87%8E.wav",
+      "觉得": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E8%A7%89%E5%BE%97.wav",
+      "狂欢": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E7%8B%82%E6%AC%A2.wav",
+      "放学": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E6%94%BE%E5%AD%A6.wav",
+      "功课": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E5%8A%9F%E8%AF%BE.wav",
+      "老师": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E8%80%81%E5%B8%88.wav",
+      "处罚": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E5%A4%84%E7%BD%9A.wav",
+      "放假": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E6%94%BE%E5%81%87.wav",
+      "互相": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E4%BA%92%E7%9B%B8.wav",
+      "碰触": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E7%A2%B0%E8%A7%A6.wav",
+      "黄色": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E9%BB%84%E8%89%B2.wav",
+      "急急忙忙": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E6%80%A5%E6%80%A5%E5%BF%99%E5%BF%99.wav",
+      "双臂": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E5%8F%8C%E8%87%82.wav",
+      "湿润": "https://memokids-1301721396.cos.ap-shanghai.myqcloud.com/voice-default/%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E8%AF%AD%E6%96%87/%E7%AC%AC%E4%BA%8C%E8%AF%BE_%E6%B9%BF%E6%B6%A6.wav"
+    }
+  }
+]

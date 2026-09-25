@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#17233d" />
+    <title>小小听写员 · 你的家默好伙伴</title>
+    <meta name="description" content="选好课程和听写规则，让孩子按自己的节奏完成家默。支持语文、英语内容自动朗读。" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="小小听写员 · 你的家默好伙伴" />
+    <meta property="og:description" content="支持语文和英语自助家默" />
+    <meta property="og:image" content="https://jasonmrazw.github.io/share-card.jpg?v=4" />
+    <meta property="og:image:width" content="512" />
+    <meta property="og:image:height" content="512" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="小小听写员 · 你的家默好伙伴" />
+    <meta name="twitter:description" content="支持语文和英语自助家默" />
+    <meta name="twitter:image" content="https://jasonmrazw.github.io/share-card.jpg?v=4" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg?v=1" />
+    <link rel="stylesheet" href="styles.css?v=23" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <button class="brand" data-action="home" aria-label="回到听写设置">
+          <span class="brand-mark">听</span>
+          <span><strong>小小听写员</strong><small>支持语文和英语自助家默</small></span>
+        </button>
+      </header>
+
+      <main id="app" class="app-main" aria-live="polite"></main>
+
+      <footer class="footer-note">
+        <details id="diagnostics-panel" class="diagnostics-panel">
+          <summary>遇到问题？复制诊断信息</summary>
+          <p>仅保留本机最近 7 天、最多 50 条错误。不自动上传，不含姓名或听写原文。请先查看，再复制发给工具作者。</p>
+          <div class="diagnostics-actions"><button type="button" class="button button-quiet" id="diagnostics-copy">复制诊断信息</button><button type="button" class="button button-quiet" id="diagnostics-clear">清空本机记录</button></div>
+          <p id="diagnostics-status" role="status"></p>
+          <label for="diagnostics-text">诊断内容（也可长按全选复制）</label>
+          <textarea id="diagnostics-text" readonly rows="7" spellcheck="false"></textarea>
+        </details>
+        © 2026 小小听写员 · 保留所有权利 <span aria-hidden="true">·</span> <a class="footer-about" href="about.html">About me</a>
+      </footer>
+    </div>
+    <script src="app.js?v=86"></script>
+  </body>
+</html>
